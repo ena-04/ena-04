@@ -16,7 +16,7 @@
 - I'm a ETCE undergrad student at IIEST, Shibpur.
 - I’m currently learning Data Structures and Algorithms, Full-Stack Development and ML.
 - I’m looking to collaborate on Open-source Projects.
-- I'm a passionate reader and also like singing and sketching.
+- I'm a passionate reader and also like singing and sketching. (Profile avatar is by me :D)
 
 <br>
 
