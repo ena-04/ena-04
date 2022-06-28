@@ -3,7 +3,7 @@
 <p align="center">
  
  
- ![](https://komarev.com/ghpvc/?username=ena-04&color=brightgreen)
+ <img src="https://komarev.com/ghpvc/?username=ena-04&color=brightgreen"/>
  <img src="https://badges.pufler.dev/repos/ena-04"/>
  <img src="https://badges.pufler.dev/commits/monthly/ena-04" />
 
