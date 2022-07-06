@@ -37,7 +37,6 @@
 <img align="center" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="center" alt="GitHub" width="40px" src="https://img.icons8.com/windows/32/ffffff/github.png" />
 <img align="center" alt="MongoDB" width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" />
-<img align="center" alt="MySQL" width="40px" src="https://static.cdnlogo.com/logos/m/10/mysql.svg" />
 
 </p>
 
